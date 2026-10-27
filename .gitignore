@@ -1,0 +1,13 @@
+# Material personal de preparación: no es necesario para ejecutar la web.
+/prompt.txt
+
+# Configuración local, dependencias y restos de trabajo.
+/.agents/
+/.codex/
+/.artifacts/
+/node_modules/
+.env
+.env.*
+*.log
+Thumbs.db
+Desktop.ini
